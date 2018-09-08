@@ -25,6 +25,9 @@ body {
  }
 /*205364, 7acbb9, aeebac, d2d4d1, 565656*/
 /* Style the header */
+.landing{
+    display:none;
+}
 .header {
     height: 632px;
     padding: 230px;
@@ -32,7 +35,9 @@ body {
     background: #7acbb9;
     color: white;
 }
-
+.landing{
+    display:none;
+}
 /* Increase the font size of the h1 element */
 .header h1 {
     font-size: 60px;
@@ -55,6 +60,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+    z-index:100;
 }
 
 /* Style the navigation bar links */
