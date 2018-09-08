@@ -113,4 +113,41 @@ body {
   width:100%;
   margin-top:50px;
 }
+#left-column{
+    padding-left:200px;
+}
+#right-column{
+    padding-right:200px;
+}
+#features{
+    background-color:#d2d4d1;
+    height:900px;
+}
+#header{
+    text-align: center;
+    padding-top:20px;
+    
+}
+.col-sm-4{
+    text-align:center;
+}
+.row{
+    padding-top: 55px
+}
+img{
+    width:70%;
+}
+.side{
+    width:50%;
+}
+.feature-sub{
+    color:#205364
+}
+.sub-back{
+    background-color: white;
+    border-radius:25px;
+    height:25px;
+    
+}
+
 </style>
