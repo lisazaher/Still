@@ -32,7 +32,9 @@ body {
     background: #7acbb9;
     color: white;
 }
-
+.landing{
+    display:none;
+}
 /* Increase the font size of the h1 element */
 .header h1 {
     font-size: 60px;
