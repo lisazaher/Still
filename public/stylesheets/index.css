@@ -151,6 +151,9 @@ img{
 .feature-sub{
     color:#205364
 }
+feature-sub h4{
+    margin-top:100px;
+}
 .sub-back{
     background-color: white;
     border-radius:25px;
