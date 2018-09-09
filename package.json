@@ -1,0 +1,19 @@
+{
+  "name": "still",
+  "version": "1.0.0",
+  "description": "An app to help humans to manage anxiety",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisazaher/Still.git"
+  },
+  "author": "Lisa Zaher, Karen Zhao, Jothi Ramaswamy, Anushka Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisazaher/Still/issues"
+  },
+  "homepage": "https://github.com/lisazaher/Still#readme"
+}
